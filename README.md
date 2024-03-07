@@ -5,7 +5,7 @@ Version 1.0
 
 Description
 -----------
-sree_mal_inscript generated from template
+sree_mal_inscript. This is Malayalam Inscript keyboard developed using Keyman Developer. Malayalm Unicode Keyboard.
 
 Links
 -----
