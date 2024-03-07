@@ -82,8 +82,9 @@ group(main) using keys
 + [K_A] > U+0D4B c 'ോ'
 + [K_Q] > U+0D4C c 'ൌ'
 + [K_X] > U+0D02 c 'ം'
-+ [SHIFT K_V] > U+0D03 c 'ഃ'
++ [SHIFT K_X] > U+0D03 c 'ഃ'
 + [K_RBRKT] > U+0D01 c 'ഁ'
++ [SHIFT K_V] > U+0D3D c 'ഽ'
 
 + [SHIFT CTRL K_0] > U+0D66 c 'Malayalam number 0'
 + [SHIFT CTRL K_1] > U+0D67 c 'Malayalam number 1'

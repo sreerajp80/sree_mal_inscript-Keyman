@@ -3,13 +3,13 @@
   <ViewState>
     <tab>1</tab>
     <showhelp>1</showhelp>
-    <path>K:\Keyman\SreerajPMal\sree_mal_inscript\sree_mal_inscript.kpj</path>
+    <path>K:\Github\sree_mal_inscript-Keyman\sree_mal_inscript.kpj</path>
     <file ID="id_7444325bf70eace6be26de88185a753b" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
       <ID>id_7444325bf70eace6be26de88185a753b</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.kmn</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\sree_mal_inscript.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -21,7 +21,7 @@
     </FileState>
     <FileState>
       <ID>id_d7e0e4c97544b9bbd8ce944fb39b6b01</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.kps</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\sree_mal_inscript.kps</FullPath>
       <IDEState>
         <CodeFont>Consolas|-9|   |0</CodeFont>
         <CharFont>Consolas|-9|   |0</CharFont>
@@ -29,19 +29,19 @@
     </FileState>
     <FileState>
       <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\HISTORY.md</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\HISTORY.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\LICENSE.md</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\LICENSE.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\README.md</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\README.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_88d0d2b539200ec1540c9e4168aa46c7</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\sree_mal_inscript.keyboard_info</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\sree_mal_inscript.keyboard_info</FullPath>
       <IDEState>
         <CodeFont>Consolas|-9|   |0</CodeFont>
         <CharFont>Consolas|-9|   |0</CharFont>
@@ -49,27 +49,27 @@
     </FileState>
     <FileState>
       <ID>id_95f38c4dc6cf33fb73165d227c1a9c99</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.ico</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\sree_mal_inscript.ico</FullPath>
     </FileState>
     <FileState>
       <ID>id_2dd9f387baf2284a1a4cb574ce630961</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\..\build\sree_mal_inscript.kmx</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\..\build\sree_mal_inscript.kmx</FullPath>
     </FileState>
     <FileState>
       <ID>id_fbe3a412b6ebfbddbadabd2c88e6b82d</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\..\build\sree_mal_inscript.js</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\..\build\sree_mal_inscript.js</FullPath>
     </FileState>
     <FileState>
       <ID>id_797ca4aef0e38f6cc534202a49314a46</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\..\build\sree_mal_inscript.kvk</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\..\build\sree_mal_inscript.kvk</FullPath>
     </FileState>
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\welcome.htm</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\welcome.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\readme.htm</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\readme.htm</FullPath>
     </FileState>
   </FileStates>
   <MRU>
@@ -77,10 +77,16 @@
       <ID>id_MRU0</ID>
       <Filename>sree_mal_inscript.kmn</Filename>
       <FileType>.kmn</FileType>
-      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.kmn</FullPath>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\sree_mal_inscript.kmn</FullPath>
     </File>
     <File>
       <ID>id_MRU1</ID>
+      <Filename>sree_mal_inscript.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
       <Filename>sree_mal_inscript.kps</Filename>
       <FileType>.kps</FileType>
       <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.kps</FullPath>

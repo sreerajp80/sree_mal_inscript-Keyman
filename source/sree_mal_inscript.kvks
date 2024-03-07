@@ -3,7 +3,9 @@
   <header>
     <version>10.0</version>
     <kbdname>sree_mal_inscript</kbdname>
-    <flags/>
+    <flags>
+      <displayunderlying/>
+    </flags>
   </header>
   <encoding name="unicode" fontname="Arial" fontsize="-12">
     <layer shift="SC">
@@ -63,8 +65,8 @@
       <key vkey="K_S">ഏ</key>
       <key vkey="K_T">ഊ</key>
       <key vkey="K_U">ങ</key>
-      <key vkey="K_V">ഃ</key>
       <key vkey="K_W">ഐ</key>
+      <key vkey="K_X">ഃ</key>
       <key vkey="K_Y">ഭ</key>
       <key vkey="K_Z">എ</key>
       <key vkey="K_6">^</key>
