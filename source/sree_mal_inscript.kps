@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.145.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">sree_mal_inscript</Name>
+    <Copyright URL="">© SreerajP</Copyright>
+    <Author URL="mailto:tosreerajp@gmail.com">SreerajP</Author>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\sree_mal_inscript.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\sree_mal_inscript.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\sree_mal_inscript.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>sree_mal_inscript</Name>
+      <ID>sree_mal_inscript</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="ml">Malayalam</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
