@@ -33,7 +33,7 @@ function Keyboard_sree_mal_inscript()
     }
     return result;
   })(this.KV.KLS);
-  this.KDU=0;
+  this.KDU=1;
   this.KH='';
   this.KM=0;
   this.KBVER="1.0";
@@ -1091,14 +1091,14 @@ function Keyboard_sree_mal_inscript()
     var k=KeymanWeb,r=0,m=0;
     if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_1 /* 0x31 */)) {
       if(1){
-        r=m=1;   // Line 89
+        r=m=1;   // Line 90
         k.KDC(0,t);
         k.KO(-1,t,"൧");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_1 /* 0x31 */)) {
       if(1){
-        r=m=1;   // Line 120
+        r=m=1;   // Line 121
         k.KDC(0,t);
         k.KO(-1,t,"!");
       }
@@ -1112,70 +1112,70 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_QUOTE /* 0xDE */)) {
       if(1){
-        r=m=1;   // Line 143
+        r=m=1;   // Line 144
         k.KDC(0,t);
         k.KO(-1,t,"'");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.ALT | modCodes.VIRTUAL_KEY /* 0x4050 */, keyCodes.K_QUOTE /* 0xDE */)) {
       if(1){
-        r=m=1;   // Line 144
+        r=m=1;   // Line 145
         k.KDC(0,t);
         k.KO(-1,t,"\"");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_3 /* 0x33 */)) {
       if(1){
-        r=m=1;   // Line 91
+        r=m=1;   // Line 92
         k.KDC(0,t);
         k.KO(-1,t,"൩");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_3 /* 0x33 */)) {
       if(1){
-        r=m=1;   // Line 118
+        r=m=1;   // Line 119
         k.KDC(0,t);
         k.KO(-1,t,"#");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_4 /* 0x34 */)) {
       if(1){
-        r=m=1;   // Line 92
+        r=m=1;   // Line 93
         k.KDC(0,t);
         k.KO(-1,t,"൪");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_4 /* 0x34 */)) {
       if(1){
-        r=m=1;   // Line 117
+        r=m=1;   // Line 118
         k.KDC(0,t);
         k.KO(-1,t,"₨");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_5 /* 0x35 */)) {
       if(1){
-        r=m=1;   // Line 93
+        r=m=1;   // Line 94
         k.KDC(0,t);
         k.KO(-1,t,"൫");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_5 /* 0x35 */)) {
       if(1){
-        r=m=1;   // Line 116
+        r=m=1;   // Line 117
         k.KDC(0,t);
         k.KO(-1,t,"%");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_7 /* 0x37 */)) {
       if(1){
-        r=m=1;   // Line 97
+        r=m=1;   // Line 98
         k.KDC(0,t);
         k.KO(-1,t,"൭");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_7 /* 0x37 */)) {
       if(1){
-        r=m=1;   // Line 114
+        r=m=1;   // Line 115
         k.KDC(0,t);
         k.KO(-1,t,"&");
       }
@@ -1189,42 +1189,42 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_9 /* 0x39 */)) {
       if(1){
-        r=m=1;   // Line 95
+        r=m=1;   // Line 96
         k.KDC(0,t);
         k.KO(-1,t,"൯");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_9 /* 0x39 */)) {
       if(1){
-        r=m=1;   // Line 112
+        r=m=1;   // Line 113
         k.KDC(0,t);
         k.KO(-1,t,"(");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_0 /* 0x30 */)) {
       if(1){
-        r=m=1;   // Line 88
+        r=m=1;   // Line 89
         k.KDC(0,t);
         k.KO(-1,t,"൦");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_0 /* 0x30 */)) {
       if(1){
-        r=m=1;   // Line 111
+        r=m=1;   // Line 112
         k.KDC(0,t);
         k.KO(-1,t,")");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_8 /* 0x38 */)) {
       if(1){
-        r=m=1;   // Line 96
+        r=m=1;   // Line 97
         k.KDC(0,t);
         k.KO(-1,t,"൮");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_8 /* 0x38 */)) {
       if(1){
-        r=m=1;   // Line 113
+        r=m=1;   // Line 114
         k.KDC(0,t);
         k.KO(-1,t,"*");
       }
@@ -1238,35 +1238,35 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_EQUAL /* 0xBB */)) {
       if(1){
-        r=m=1;   // Line 121
+        r=m=1;   // Line 122
         k.KDC(0,t);
         k.KO(-1,t,"=");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.ALT | modCodes.VIRTUAL_KEY /* 0x4050 */, keyCodes.K_EQUAL /* 0xBB */)) {
       if(1){
-        r=m=1;   // Line 122
+        r=m=1;   // Line 123
         k.KDC(0,t);
         k.KO(-1,t,"+");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_COMMA /* 0xBC */)) {
       if(1){
-        r=m=1;   // Line 131
+        r=m=1;   // Line 132
         k.KDC(0,t);
         k.KO(-1,t,",");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_HYPHEN /* 0xBD */)) {
       if(1){
-        r=m=1;   // Line 127
+        r=m=1;   // Line 128
         k.KDC(0,t);
         k.KO(-1,t,"-");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_PERIOD /* 0xBE */)) {
       if(1){
-        r=m=1;   // Line 129
+        r=m=1;   // Line 130
         k.KDC(0,t);
         k.KO(-1,t,".");
       }
@@ -1280,70 +1280,70 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_0 /* 0x30 */)) {
       if(1){
-        r=m=1;   // Line 100
+        r=m=1;   // Line 101
         k.KDC(0,t);
         k.KO(-1,t,"0");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_1 /* 0x31 */)) {
       if(1){
-        r=m=1;   // Line 101
+        r=m=1;   // Line 102
         k.KDC(0,t);
         k.KO(-1,t,"1");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_2 /* 0x32 */)) {
       if(1){
-        r=m=1;   // Line 102
+        r=m=1;   // Line 103
         k.KDC(0,t);
         k.KO(-1,t,"2");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_3 /* 0x33 */)) {
       if(1){
-        r=m=1;   // Line 103
+        r=m=1;   // Line 104
         k.KDC(0,t);
         k.KO(-1,t,"3");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_4 /* 0x34 */)) {
       if(1){
-        r=m=1;   // Line 104
+        r=m=1;   // Line 105
         k.KDC(0,t);
         k.KO(-1,t,"4");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_5 /* 0x35 */)) {
       if(1){
-        r=m=1;   // Line 105
+        r=m=1;   // Line 106
         k.KDC(0,t);
         k.KO(-1,t,"5");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_6 /* 0x36 */)) {
       if(1){
-        r=m=1;   // Line 106
+        r=m=1;   // Line 107
         k.KDC(0,t);
         k.KO(-1,t,"6");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_7 /* 0x37 */)) {
       if(1){
-        r=m=1;   // Line 107
+        r=m=1;   // Line 108
         k.KDC(0,t);
         k.KO(-1,t,"7");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_8 /* 0x38 */)) {
       if(1){
-        r=m=1;   // Line 108
+        r=m=1;   // Line 109
         k.KDC(0,t);
         k.KO(-1,t,"8");
       }
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_9 /* 0x39 */)) {
       if(1){
-        r=m=1;   // Line 109
+        r=m=1;   // Line 110
         k.KDC(0,t);
         k.KO(-1,t,"9");
       }
@@ -1357,14 +1357,14 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_COLON /* 0xBA */)) {
       if(1){
-        r=m=1;   // Line 141
+        r=m=1;   // Line 142
         k.KDC(0,t);
         k.KO(-1,t,";");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.ALT | modCodes.VIRTUAL_KEY /* 0x4050 */, keyCodes.K_COLON /* 0xBA */)) {
       if(1){
-        r=m=1;   // Line 142
+        r=m=1;   // Line 143
         k.KDC(0,t);
         k.KO(-1,t,":");
       }
@@ -1385,7 +1385,7 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_COMMA /* 0xBC */)) {
       if(1){
-        r=m=1;   // Line 132
+        r=m=1;   // Line 133
         k.KDC(0,t);
         k.KO(-1,t,"<");
       }
@@ -1399,35 +1399,35 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_PERIOD /* 0xBE */)) {
       if(1){
-        r=m=1;   // Line 133
+        r=m=1;   // Line 134
         k.KDC(0,t);
         k.KO(-1,t,">");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_SLASH /* 0xBF */)) {
       if(1){
-        r=m=1;   // Line 130
+        r=m=1;   // Line 131
         k.KDC(0,t);
         k.KO(-1,t,"?");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_SLASH /* 0xBF */)) {
       if(1){
-        r=m=1;   // Line 134
+        r=m=1;   // Line 135
         k.KDC(0,t);
         k.KO(-1,t,"/");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_2 /* 0x32 */)) {
       if(1){
-        r=m=1;   // Line 90
+        r=m=1;   // Line 91
         k.KDC(0,t);
         k.KO(-1,t,"൨");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_2 /* 0x32 */)) {
       if(1){
-        r=m=1;   // Line 119
+        r=m=1;   // Line 120
         k.KDC(0,t);
         k.KO(-1,t,"@");
       }
@@ -1579,6 +1579,13 @@ function Keyboard_sree_mal_inscript()
         k.KO(-1,t,"ങ");
       }
     }
+    else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_V /* 0x56 */)) {
+      if(1){
+        r=m=1;   // Line 87
+        k.KDC(0,t);
+        k.KO(-1,t,"ഽ");
+      }
+    }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_W /* 0x57 */)) {
       if(1){
         r=m=1;   // Line 24
@@ -1616,37 +1623,37 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_BKSLASH /* 0xDC */)) {
       if(k.KFCM(2,t,['ണ','്'])){
-        r=m=1;   // Line 147
+        r=m=1;   // Line 148
         k.KDC(2,t);
         k.KO(-1,t,"ൺ");
       }
       else if(k.KFCM(2,t,['ന','്'])){
-        r=m=1;   // Line 148
+        r=m=1;   // Line 149
         k.KDC(2,t);
         k.KO(-1,t,"ൻ");
       }
       else if(k.KFCM(2,t,['ര','്'])){
-        r=m=1;   // Line 149
+        r=m=1;   // Line 150
         k.KDC(2,t);
         k.KO(-1,t,"ർ");
       }
       else if(k.KFCM(2,t,['ല','്'])){
-        r=m=1;   // Line 150
+        r=m=1;   // Line 151
         k.KDC(2,t);
         k.KO(-1,t,"ൽ");
       }
       else if(k.KFCM(2,t,['ക','്'])){
-        r=m=1;   // Line 151
+        r=m=1;   // Line 152
         k.KDC(2,t);
         k.KO(-1,t,"ൿ");
       }
       else if(k.KFCM(2,t,['ള','്'])){
-        r=m=1;   // Line 152
+        r=m=1;   // Line 153
         k.KDC(2,t);
         k.KO(-1,t,"ൾ");
       }
       else if(1){
-        r=m=1;   // Line 124
+        r=m=1;   // Line 125
         k.KDC(0,t);
         k.KO(-1,t,"‍");
       }
@@ -1660,21 +1667,21 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_6 /* 0x36 */)) {
       if(1){
-        r=m=1;   // Line 94
+        r=m=1;   // Line 95
         k.KDC(0,t);
         k.KO(-1,t,"൬");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_6 /* 0x36 */)) {
       if(1){
-        r=m=1;   // Line 115
+        r=m=1;   // Line 116
         k.KDC(0,t);
         k.KO(-1,t,"^");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_HYPHEN /* 0xBD */)) {
       if(1){
-        r=m=1;   // Line 128
+        r=m=1;   // Line 129
         k.KDC(0,t);
         k.KO(-1,t,"_");
       }
@@ -1812,6 +1819,7 @@ function Keyboard_sree_mal_inscript()
         k.KO(-1,t,"ീ");
       }
     }
+      if(m) {}
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_S /* 0x53 */)) {
       if(1){
         r=m=1;   // Line 79
@@ -1819,7 +1827,6 @@ function Keyboard_sree_mal_inscript()
         k.KO(-1,t,"േ");
       }
     }
-      if(m) {}
     else if(k.KKM(e, modCodes.VIRTUAL_KEY /* 0x4000 */, keyCodes.K_T /* 0x54 */)) {
       if(1){
         r=m=1;   // Line 76
@@ -1878,35 +1885,35 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_LBRKT /* 0xDB */)) {
       if(1){
-        r=m=1;   // Line 137
+        r=m=1;   // Line 138
         k.KDC(0,t);
         k.KO(-1,t,"[");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.ALT | modCodes.VIRTUAL_KEY /* 0x4050 */, keyCodes.K_LBRKT /* 0xDB */)) {
       if(1){
-        r=m=1;   // Line 138
+        r=m=1;   // Line 139
         k.KDC(0,t);
         k.KO(-1,t,"{");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.VIRTUAL_KEY /* 0x4010 */, keyCodes.K_BKSLASH /* 0xDC */)) {
       if(1){
-        r=m=1;   // Line 125
+        r=m=1;   // Line 126
         k.KDC(0,t);
         k.KO(-1,t,"‌");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_BKSLASH /* 0xDC */)) {
       if(1){
-        r=m=1;   // Line 135
+        r=m=1;   // Line 136
         k.KDC(0,t);
         k.KO(-1,t,"\\");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.ALT | modCodes.VIRTUAL_KEY /* 0x4050 */, keyCodes.K_BKSLASH /* 0xDC */)) {
       if(1){
-        r=m=1;   // Line 136
+        r=m=1;   // Line 137
         k.KDC(0,t);
         k.KO(-1,t,"|");
       }
@@ -1920,14 +1927,14 @@ function Keyboard_sree_mal_inscript()
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.CTRL | modCodes.VIRTUAL_KEY /* 0x4030 */, keyCodes.K_RBRKT /* 0xDD */)) {
       if(1){
-        r=m=1;   // Line 139
+        r=m=1;   // Line 140
         k.KDC(0,t);
         k.KO(-1,t,"]");
       }
     }
     else if(k.KKM(e, modCodes.SHIFT | modCodes.ALT | modCodes.VIRTUAL_KEY /* 0x4050 */, keyCodes.K_RBRKT /* 0xDD */)) {
       if(1){
-        r=m=1;   // Line 140
+        r=m=1;   // Line 141
         k.KDC(0,t);
         k.KO(-1,t,"}");
       }

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>4</tab>
     <showhelp>1</showhelp>
     <path>K:\Github\sree_mal_inscript-Keyman\sree_mal_inscript.kpj</path>
     <file ID="id_7444325bf70eace6be26de88185a753b" Expanded="1"/>
+    <file ID="id_d7e0e4c97544b9bbd8ce944fb39b6b01" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
@@ -30,6 +31,10 @@
     <FileState>
       <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
       <FullPath>K:\Github\sree_mal_inscript-Keyman\HISTORY.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
@@ -38,9 +43,13 @@
     <FileState>
       <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
       <FullPath>K:\Github\sree_mal_inscript-Keyman\README.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
-      <ID>id_88d0d2b539200ec1540c9e4168aa46c7</ID>
+      <ID>id_4384d42337823ff4a8249bed35e768dd</ID>
       <FullPath>K:\Github\sree_mal_inscript-Keyman\sree_mal_inscript.keyboard_info</FullPath>
       <IDEState>
         <CodeFont>Consolas|-9|   |0</CodeFont>
@@ -66,27 +75,71 @@
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
       <FullPath>K:\Github\sree_mal_inscript-Keyman\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
       <FullPath>K:\Github\sree_mal_inscript-Keyman\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
   </FileStates>
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>HISTORY.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\HISTORY.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\README.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>sree_mal_inscript.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\sree_mal_inscript.keyboard_info</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
       <Filename>sree_mal_inscript.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>K:\Github\sree_mal_inscript-Keyman\source\sree_mal_inscript.kmn</FullPath>
     </File>
     <File>
-      <ID>id_MRU1</ID>
+      <ID>id_MRU4</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>readme.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\readme.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>sree_mal_inscript.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>K:\Github\sree_mal_inscript-Keyman\source\sree_mal_inscript.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
       <Filename>sree_mal_inscript.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.kmn</FullPath>
     </File>
     <File>
-      <ID>id_MRU2</ID>
+      <ID>id_MRU8</ID>
       <Filename>sree_mal_inscript.kps</Filename>
       <FileType>.kps</FileType>
       <FullPath>K:\Keyman\SreerajPMal\sree_mal_inscript\source\sree_mal_inscript.kps</FullPath>
